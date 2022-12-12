@@ -15,6 +15,9 @@
     <li>Allow download</li>
     <li>Allow uplaod of image from computer</li>
     <li>Add a share button?</li>
+    <li>Allow users to add a border on top/bottom so image isn't blocked?</li>
+    <li>Allow users to choose the color font they want to use?</li>
+    <li>Allow users to choose the font size they want to use?</li>
   </ul>
   
   <h2>Some Things I learned Making This Portfolio</h2>
