@@ -21,10 +21,9 @@
   </ul>
   
   <h2>Some Things I learned Making This Portfolio</h2>
-  
   <ul>
-    <li></li>
-    </ul>
+    <li>Using styled components</li>
+  </ul>
 
 <h2>Want More?</h2>
 If you'd like to see more about me, please visit my <a href="https://www.linkedin.com/in/icyparkinson/">LinkedIn</a>.

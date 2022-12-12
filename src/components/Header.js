@@ -1,9 +1,34 @@
+import styled from "styled-components"
+
+const HeaderSection = styled.header`
+display: flex;
+justify-content: center;
+align-items: center;
+width: 80%;
+border: 1px solid red;
+margin: auto;
+padding: 10px;
+background-color: purple;
+color: white;
+`
+
+const Header2 = styled.h2`
+margin-right: auto;
+margin-left: 20px;
+font-size: 40px;
+`
+
+const Header4 = styled.h4`
+margin-right: 20px;
+font-size: 25px;
+`
+
 function Header(){
     return(
-        <header>
-            <h2>Meme Maker</h2>
-            <h4>Made By You!</h4>
-        </header>
+        <HeaderSection>
+            <Header2>Meme Maker</Header2>
+            <Header4>Made by You!</Header4>
+        </HeaderSection>
     )
 }
 
