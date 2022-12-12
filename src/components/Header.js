@@ -5,7 +5,6 @@ display: flex;
 justify-content: center;
 align-items: center;
 width: 80%;
-border: 1px solid red;
 margin: auto;
 padding: 10px;
 background-color: purple;
